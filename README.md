@@ -1,5 +1,5 @@
 # CadenaRespo
-En este proyecto se puede ver un ejemplo de Cadena de responsabilidades
+En este proyecto se puede ver un ejemplo de Cadena de responsabilidades 
 Presentado por: Andres Felipe Reyes García 20142020103
 <pre><code>
 class ReportFormat(object):
