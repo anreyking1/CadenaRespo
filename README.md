@@ -1,6 +1,10 @@
 # CadenaRespo
 En este proyecto se puede ver un ejemplo de Cadena de responsabilidades 
-Presentado por: Andres Felipe Reyes García 20142020103
+Presentado por: 
+Andres Felipe Reyes García 20142020103
+Camilo Ramirez Alarcon 20142020078
+Daniel Camargo 20142020094
+
 <pre><code>
 class ReportFormat(object):
     PDF = 0
